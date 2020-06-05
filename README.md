@@ -2,7 +2,7 @@
 
 ## Directions
 
-For this project, you are going to build a simple game with JavaScript. First, make sure you've [watched this video of Mary Rose Cook building a game from scratch](https://vimeo.com/105955605). Check out [her annotated version of Space Invaders](http://annotated-code.maryrosecook.com/space-invaders/docs/space-invaders.html).
+For this project, you are going to build a simple game with JavaScript. First, make sure you've [watched this video of Mary Rose Cook building a game from scratch](https://youtu.be/hbKN-9o5_Z0). Check out [her annotated version of Space Invaders](http://annotated-code.maryrosecook.com/space-invaders/docs/space-invaders.html).
 
 Then pick one of the following games:
 
